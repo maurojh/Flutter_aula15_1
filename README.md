@@ -2,6 +2,7 @@
 
 # código API:
 
+``` 
   <?php
     $dado = rand(1,6);
 
@@ -9,4 +10,5 @@
 
     $json = json_encode($vetor);
     echo $json;
-  ?>
+ ?>
+ ``` 
